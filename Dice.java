@@ -9,6 +9,8 @@ public class Dice {
 	
 	
 	public Dice (int DiceCount, int j, int k)
+	
+	// what are j and k for, Armando?
 	{		
 		mDiceCount = DiceCount;
 	}
